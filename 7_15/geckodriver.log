@@ -1,0 +1,288 @@
+1679638530410	geckodriver	INFO	Listening on 127.0.0.1:51960
+1679638530952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51961" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kaleev\\AppData\\Local\\Temp\\rust_mozprofilew6O6ne"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679638531306	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679638531311	Marionette	INFO	Listening on port 51967
+Read port: 51967
+WebDriver BiDi listening on ws://127.0.0.1:51961
+1679638531457	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kaleev\\AppData\\Local\\Temp\\rust_mozprofilew6O6ne\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51961/devtools/browser/169ef045-a312-4963-abec-3813802003a8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://5element.by."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1679638621461	Marionette	INFO	Stopped listening on port 51967
+Dynamically enable window occlusion 1
+1679638626542	geckodriver	INFO	Listening on 127.0.0.1:52109
+1679638627065	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52110" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kaleev\\AppData\\Local\\Temp\\rust_mozprofilegyC2qx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679638627377	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679638627380	Marionette	INFO	Listening on port 52116
+Read port: 52116
+WebDriver BiDi listening on ws://127.0.0.1:52110
+1679638627499	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kaleev\\AppData\\Local\\Temp\\rust_mozprofilegyC2qx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52110/devtools/browser/18aa222d-a7a0-4f49-985c-77b7b831cd1e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://5element.by."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1679638714892	Marionette	INFO	Stopped listening on port 52116
+Dynamically enable window occlusion 1
+1679640487318	geckodriver	INFO	Listening on 127.0.0.1:53049
+1679640487823	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53050" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kaleev\\AppData\\Local\\Temp\\rust_mozprofileyQsKbX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679640488069	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679640488072	Marionette	INFO	Listening on port 53055
+Read port: 53055
+WebDriver BiDi listening on ws://127.0.0.1:53050
+1679640488207	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kaleev\\AppData\\Local\\Temp\\rust_mozprofileyQsKbX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53050/devtools/browser/c5a7f3b6-dc97-4934-8357-f63e2b5d8dab
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://5element.by."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript error: , line 0: TypeError: ServiceWorker script at https://5element.by/sp-push-worker-fb.js for scope https://5element.by/ threw an exception during script evaluation.
+1679640766025	Marionette	INFO	Stopped listening on port 53055
+Dynamically enable window occlusion 1
+\kaleev\\AppData\\Local\\Temp\\rust_mozprofileSmfhKx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679640643254	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679640643257	Marionette	INFO	Listening on port 53201
+Read port: 53201
+WebDriver BiDi listening on ws://127.0.0.1:53196
+1679640643395	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kaleev\\AppData\\Local\\Temp\\rust_mozprofileSmfhKx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53196/devtools/browser/edc5c42a-86c7-4b25-8671-b532a673941b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://5element.by."
+1679640765000	Marionette	INFO	Stopped listening on port 53201
+Dynamically enable window occlusion 1
+1679640803806	geckodriver	INFO	Listening on 127.0.0.1:53399
+1679640804338	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53400" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kaleev\\AppData\\Local\\Temp\\rust_mozprofileZW4F7K"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679640804588	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679640804591	Marionette	INFO	Listening on port 53405
+Read port: 53405
+WebDriver BiDi listening on ws://127.0.0.1:53400
+1679640804726	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kaleev\\AppData\\Local\\Temp\\rust_mozprofileZW4F7K\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53400/devtools/browser/8b3dfede-9bb1-4aa2-8914-7178500d7d05
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://5element.by."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1679642345425	Marionette	INFO	Stopped listening on port 53405
+Dynamically enable window occlusion 1
+rvices.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1679642347426	Marionette	INFO	Stopped listening on port 53699
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54015" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kaleev\\AppData\\Local\\Temp\\rust_mozprofilexQevih"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679642108728	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679642108732	Marionette	INFO	Listening on port 54020
+Read port: 54020
+WebDriver BiDi listening on ws://127.0.0.1:54015
+1679642108853	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kaleev\\AppData\\Local\\Temp\\rust_mozprofilexQevih\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54015/devtools/browser/0413a461-b8b0-4ce0-b0ee-e318fee085e1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://5element.by."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1679642348794	Marionette	INFO	Stopped listening on port 54020
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54132" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kaleev\\AppData\\Local\\Temp\\rust_mozprofileP8Fjn6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679642283766	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679642283769	Marionette	INFO	Listening on port 54137
+Read port: 54137
+WebDriver BiDi listening on ws://127.0.0.1:54132
+1679642283894	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kaleev\\AppData\\Local\\Temp\\rust_mozprofileP8Fjn6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54132/devtools/browser/d0359a28-c9ee-400d-a43f-bea7f4eba8d4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://5element.by."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://5element.by."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+1679642657572	geckodriver	INFO	Listening on 127.0.0.1:54391
+1679642658097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54392" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kaleev\\AppData\\Local\\Temp\\rust_mozprofilez99e2P"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679642658344	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679642658348	Marionette	INFO	Listening on port 54397
+Read port: 54397
+WebDriver BiDi listening on ws://127.0.0.1:54392
+1679642658484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kaleev\\AppData\\Local\\Temp\\rust_mozprofilez99e2P\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54392/devtools/browser/7eb9e923-88f3-4b6e-937b-a29740a1300b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://5element.by."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://5element.by."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+1679643008226	geckodriver	INFO	Listening on 127.0.0.1:54612
+1679643008757	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54613" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kaleev\\AppData\\Local\\Temp\\rust_mozprofile7igfFq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679643009010	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679643009014	Marionette	INFO	Listening on port 54618
+Read port: 54618
+WebDriver BiDi listening on ws://127.0.0.1:54613
+1679643009136	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kaleev\\AppData\\Local\\Temp\\rust_mozprofile7igfFq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54613/devtools/browser/10872b72-bfd9-4fde-b5ea-60019b00d254
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://5element.by."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://5element.by."
+console.error: "stylesheets: fetch failed for https://5element.by/desktop/css/app.min.css?t=1679581005, using system principal instead."
+console.error: "stylesheets: fetch failed for https://5element.by/desktop/css/app.min.css?t=1679581005, using system principal instead."
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450956/pagestyle144, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetApplied@resource://devtools/client/fronts/page-style.js:61:29\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:187:44\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Unable to find target with innerWindowId:12884901889"
+console.error: "Unable to find target with innerWindowId:6442450956"
+console.error: "Unable to find target with innerWindowId:6442450956"
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Unable to find target with innerWindowId:12884901889"
+console.error: "Unable to find target with innerWindowId:12884901889"
+console.error: "Unable to find target with innerWindowId:12884901889"
+console.error: "Unable to find target with innerWindowId:12884901889"
+console.error: "Unable to find target with innerWindowId:12884901889"
+console.error: "Unable to find target with innerWindowId:6442450956"
+console.error: "Unable to find target with innerWindowId:6442450956"
+console.error: "Unable to find target with innerWindowId:6442450956"
+console.error: "Unable to find target with innerWindowId:6442450956"
+console.error: "Unable to find target with innerWindowId:6442450956"
+console.error: "Unable to find target with innerWindowId:6442450956"
+console.error: "Unable to find target with innerWindowId:6442450956"
+console.error: "Unable to find target with innerWindowId:6442450956"
+console.error: "Unable to find target with innerWindowId:6442450956"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:6442450956"
+console.error: "Unable to find target with innerWindowId:6442450959"
+console.error: "Unable to find target with innerWindowId:6442450959"
+console.error: "Unable to find target with innerWindowId:6442450959"
+console.error: "Unable to find target with innerWindowId:6442450959"
+console.error: "Unable to find target with innerWindowId:6442450962"
+console.error: "Unable to find target with innerWindowId:6442450962"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: "Listener for event 'frame' did not return a promise."
+NetworkHelper.parseSecurityInfo threw an exception: Security state 0 has no known STATE_IS_* flags.
+console.error: "Security state 0 has no known STATE_IS_* flags."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: , line 0: TypeError: ServiceWorker script at https://5element.by/sp-push-worker-fb.js for scope https://5element.by/ threw an exception during script evaluation.
+1679643513094	geckodriver	INFO	Listening on 127.0.0.1:54931
+1679643513617	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54932" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kaleev\\AppData\\Local\\Temp\\rust_mozprofileJTTPBN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679643513879	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679643513883	Marionette	INFO	Listening on port 54937
+Read port: 54937
+WebDriver BiDi listening on ws://127.0.0.1:54932
+1679643514013	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kaleev\\AppData\\Local\\Temp\\rust_mozprofileJTTPBN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54932/devtools/browser/931b5ff5-5f31-4140-a676-b74d29fec821
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://5element.by."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1679643773901	geckodriver	INFO	Listening on 127.0.0.1:55161
+1679643774411	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55162" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kaleev\\AppData\\Local\\Temp\\rust_mozprofileWHOWl2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679643774673	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679643774677	Marionette	INFO	Listening on port 55168
+Read port: 55168
+WebDriver BiDi listening on ws://127.0.0.1:55162
+1679643774937	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kaleev\\AppData\\Local\\Temp\\rust_mozprofileWHOWl2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55162/devtools/browser/08d065ef-fa5b-4b19-81e7-77afeedb1582
+1679644265337	geckodriver	INFO	Listening on 127.0.0.1:55409
+1679644265843	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55410" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kaleev\\AppData\\Local\\Temp\\rust_mozprofileJVCziM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679644266113	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679644266117	Marionette	INFO	Listening on port 55415
+Read port: 55415
+WebDriver BiDi listening on ws://127.0.0.1:55410
+1679644266258	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kaleev\\AppData\\Local\\Temp\\rust_mozprofileJVCziM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55410/devtools/browser/4de95be2-522e-4b57-9fb1-fc1bc8a160ca
