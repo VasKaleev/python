@@ -13,15 +13,13 @@ browser.maximize_window()
 time.sleep(10)
 #user_name = driver.find_element_by_id("user-name")
 #user_name = driver.find_element(By.ID,"user-name")
-#user_name = driver.find_element(By.NAME,"user-name")
-#user_name = driver.find_element(By.XPATH,"//*[@id='user-name']")
-#user_name = driver.find_element(By.XPATH,"//[@id='user-name']")
+#user_name = browser.find_element(By.NAME,"user-name")
+#user_name = browser.find_element(By.XPATH,"//input[@id='user-name']")
+#user_name = browser.find_element(By.XPATH,"//*[@id='user-name']")
 user_name = browser.find_element(By.XPATH,"//*[@data-test='username']")
 user_name.send_keys("standard_user")
 time.sleep(10)
-pasw = browser.find_element(By.XPATH,"//*[@id='password']")
-pasw.send_keys("secret_sauce")
-but_login = browser.find_element(By.XPATH,"//input[@value='Login']").click()
+
 
 
 
